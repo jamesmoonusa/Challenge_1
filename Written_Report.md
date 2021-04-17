@@ -11,10 +11,11 @@ Knowing how different campaigns fared in relation to their launch dates and thei
 ### Analysis of Outcomes Based on Launch Date
 May showing highest theater successful rate than other month of the years on theater category. 
 As a result, May can be the best month to run a theater fundraising campaign.
-
+[Theater Outcomes Based on Launch](https://github.com/jamesmoonusa/Challenge_1/blob/main/Theater_Outcomes_vs_lunch.PNG)
 ### Analysis of Outcomes Based on Goals
 There is decreasing successful percentage as funding goal increase and increasing fail percentage. Also slight increase of cancel rate.
 We can concluded that there is correlation between funding Goals and outcomes
+[Outcomes Baesed on Goal](https://github.com/jamesmoonusa/Challenge_1/blob/main/Outcomes_vs_Goals.PNG)
 ### Challenges and Difficulties Encountered
 #### Challenges on Outcomes Based on Goals
 Income should be highly correlated factor that affects fundraising outcomes. Since the campaign has run based on Country we should input each country’s GDP or household income data to see if this factor does change our outcome result. 
