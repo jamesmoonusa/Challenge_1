@@ -32,4 +32,4 @@ As increasing Funding Goal amount increase, Successful rate decrease and fail ra
 Funding Goal out comes can have different result based country’s income. Result would have strong conclusion if we can add income data.
 - What are some other possible tables and/or graphs that we could create?
 I have recreated Theater Outcomes successful rate based on each months Grant total cases to see actual successful rate on each month. 
-[Githug Pages](https://github.com/jamesmoonusa/Challenge_1/blob/main/Theater_Outcomees_vs_lunch_vs_Grand.PNG)
+[Table and Graph](https://github.com/jamesmoonusa/Challenge_1/blob/main/Theater_Outcomees_vs_lunch_vs_Grand.PNG)
